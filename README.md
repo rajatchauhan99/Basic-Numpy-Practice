@@ -8,7 +8,9 @@ like 1D, 2D, 3D , 4D etc.
 
 and various operations of slicing just as seen in list objects can be done there as well.
 
-And it comes with so many packages such as np.random.permuation, np.arange, .reshape() etc. to name same
+And it comes with so many packages such as np.random.permuation, np.arange,
+np.random.randint , np.random.randn 
+.reshape() etc. to name same
 
 We can create matrices and join them horizontally, vertically and a lot of other operations.
 
